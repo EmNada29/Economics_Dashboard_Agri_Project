@@ -1,7 +1,7 @@
 # Economics_Dashboard_Agri_Project
 Dashboard w/ Python for a personal project in Agricultural Economics
 
-DASHBOARD for an agricultural follow-up support project, w/ GUI (frontend) and a SQL database (backend)
+DASHBOARD for an agricultural follow-up support project, w/ GUI (frontend) and a SQL database (backend).
 
 One file for the GUI (frontend.py), one for the dashboard (dashboard.py), one for the database (backend.py). The user just has to execute the frontend.py script to launch the GUI, and eventually edit a brand new dashboard right after choosing a farm to analyze.
 
